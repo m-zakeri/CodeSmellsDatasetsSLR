@@ -12,6 +12,6 @@ authors:
   given-names: "Fabio"
 title: "Code smells datasets SLR"
 version: 0.1.0
-doi: 
+doi: https://doi.org/10.5281/zenodo.7533548
 date-released: 2023-01-13
 url: "https://github.com/m-zakeri/CodeSmellsDatasetsSLR.git"
