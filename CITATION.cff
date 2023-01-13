@@ -10,7 +10,7 @@ authors:
   given-names: "Ehsan"
 - family-names: "Palomba"
   given-names: "Fabio"
-title: "A systematic literature review on the code smells datasets and validation mechanisms"
+title: "Code smells datasets SLR"
 version: 0.1.0
 doi: 
 date-released: 2023-01-13
