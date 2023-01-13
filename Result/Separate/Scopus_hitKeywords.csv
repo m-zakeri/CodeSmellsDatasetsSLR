@@ -1,0 +1,78 @@
+Title
+feature envy detection based on bi-lstm with self-attention mechanism
+an empirical analysis on the role of wsdl metrics in web service anti-pattern prediction
+improving machine learning-based code smell detection via hyper-parameter optimization
+a preliminary study on the adequacy of static analysis warnings with respect to code smell prediction
+predicting code smells and analysis of predictions: using machine learning techniques and software metrics
+a large empirical assessment of the role of data balancing in machine-learning-based code smell detection
+applying machine learning to customized smell detection: a multi-project study
+understanding and detecting harmful code
+recommending composite refactorings for smell removal: heuristics and evaluation
+automating the early detection of security design flaws
+a large-scale comparative analysis of coding standard conformance in open-source data science projects
+prioritizing software components risk: towards a machine learning-based approach
+feature requests-based recommendation of software refactorings
+code smell detection using multi-label classification approach
+developer-driven code smell prioritization
+detecting bad smells with machine learning algorithms: an empirical study
+bad smell detection using machine learning techniques: a systematic literature review
+a machine-learning based ensemble method for anti-patterns detection
+prediction ofweb service anti-patterns using aggregate software metrics and machine learning techniques
+are sonarqube rules inducing bugs?
+detection of web service anti-patterns using machine learning framework
+detection of web service anti-patterns using neural networks with multiple layers
+"a model for diagnosing the largest number of android application problems, based on reviews in download stores by use of the decision tree"
+code smell prediction employing machine learning meets emerging java language constructs
+software smell detection based on machine learning and its empirical study
+comparison of multi-label classification algorithms for code smell detection
+detecting code smells using deep learning
+software design smell detection: a systematic mapping study
+on the role of data balancing for machine learning-based code smell detection
+identification of code smell using machine learning
+sniffing android code smells: an association rules mining-based approach
+comparing heuristic and machine learning approaches for metric-based code smell detection
+an empirical framework for code smell prediction using extreme learning machine∗
+an empirical framework for web service anti-pattern prediction using machine learning techniques
+a rating tool for the automated selection of software refactorings that remove antipatterns to improve performance and stability
+"assessing the influence of size category of the project in god class detection, an experimental approach based on machine learning (mla)"
+assessment of code smell for predicting class change proneness using machine learning
+comparison of machine learning methods for code smell detection using reduced features
+improving design smell detection for adoption in industry
+code smells and their collocations: a large-scale experiment on open-source systems
+applied artificial optimization algorithm in design flaws detection
+using code evolution information to improve the quality of labels in code smell datasets
+an empirical analysis on web service anti-pattern detection using a machine learning framework
+detecting and managing code smells: research and practice
+keep it simple: is deep learning good for linguistic smell detection?
+a survey on software smells
+understanding metric-based detectable smells in python software: a comparative study
+design of testing framework for code smell detection (oops) using bfo algorithm
+investigating the role of code smells in preventive maintenance
+eclipse plugin for automatic detection of code smells in source codes [kaynak kodlardaki kötü kokuların otomatik tespiti için eclipse eklenti önerisi]
+automatic detection of feature envy using machine learning techniques [makine öğrenmesi yöntemlerini kullanarak özellik kıskançlığının otomatik saptanması]
+a hybrid approach to detect code smells using deep learning
+are you smelling it? investigating how similar developers detect code smells
+an empirical examination of the relationship between code smells and merge conflicts
+what if i had no smells?
+evaluation of sampling techniques in software fault prediction using metrics and code smells
+code smell severity classification using machine learning techniques
+an adaptive approach for automatic design defects detection in object-oriented systems
+"github, technical debt, code formatting, and more"
+the connection between antipatterns and maintainability in firefox
+evaluating the accuracy of machine learning algorithms on detecting code smells for different developers
+evaluation of machine learning approaches for change-proneness prediction using code smells
+predicting maintainability of open source software using gene expression programming and bad smells
+predicting software change-proneness with code smells and class imbalance learning
+comparing and experimenting machine learning techniques for code smell detection
+anti-pattern and code smell false positives: preliminary conceptualisation and classification
+code bad smell detection through evolutionary data mining
+a tool to improve code-first web services discoverability through text mining techniques
+detection of rest patterns and antipatterns: a heuristics-based approach
+code smell detection: towards a machine learning-based approach
+an approach for web service discoverability anti-pattern detection for journal of web engineering
+an automatic approach for detecting early indicators of design anti-patterns
+bdtex: a gqm-based bayesian approach for the detection of antipatterns
+bug forecast: a method for automatic bug prediction
+maintainability metrics for aspect-oriented software
+adaptive detection of design flaws
+detection strategies: metrics-based rules for detecting design flaws

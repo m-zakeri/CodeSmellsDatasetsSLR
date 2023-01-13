@@ -1,0 +1,60 @@
+Title
+an effective web service anti-pattern prediction model using smote
+design smell detection and analysis for open source java software
+an empirical analysis on web service anti-pattern detection using a machine learning framework
+poster: machine learning based code smell detection through wekanose
+improving machine learning-based code smell detection via hyper-parameter optimization
+smurf: a svm-based incremental anti-pattern detection approach
+automatic metric thresholds derivation for code smell detection
+comparing heuristic and machine learning approaches for metric-based code smell detection
+identification of code smell using machine learning
+detecting patterns and antipatterns in software using prolog rules
+an empirical framework for code smell prediction using extreme learning machine
+an empirical analysis of the distribution of unit test smells and their impact on software maintenance
+comparison of machine learning methods for code smell detection using reduced features
+support vector machines for anti-pattern detection
+improving design smell detection for adoption in industry
+an empirical analysis on the role of wsdl metrics in web service anti-pattern prediction
+bad-smell prediction from software design model using machine learning techniques
+antipattern and code smell false positives: preliminary conceptualization and classification
+predicting maintainability of open source software using gene expression programming and bad smells
+assessment of code smell for predicting class change proneness using machine learning
+an empirical framework for web service anti-pattern prediction using machine learning techniques
+comparison of multi-label classification algorithms for code smell detection
+do we have a chance to fix bugs when refactoring code smells?
+antipattern-based problem injection for assessing performance and reliability evaluation techniques
+keep it simple: is deep learning good for linguistic smell detection?
+are smell-based metrics actually useful in effort-aware structural change-proneness prediction? an empirical study
+deep learning anti-patterns from code metrics history
+do code smells impact the effort of different maintenance programming activities?
+code smell detection: towards a machine learning-based approach
+adaboost-based refused bequest code smell detection with synthetic instances
+a support vector machine based approach for code smell detection
+structural quality metrics as indicators of the long method bad smell: an empirical study
+a bayesian approach for the detection of code and design smells
+quantifying the effect of code smells on maintenance effort
+using code evolution information to improve the quality of labels in code smell datasets
+detecting code smells using deep learning
+code bad smell detection through evolutionary data mining
+an experience report on using code smells detection tools
+detecting code smells using machine learning techniques: are we there yet?
+an improved behavioral matching for anti-pattern based abstract factory recommendation
+bug prediction model using code smells
+reducing subjectivity in code smells detection: experimenting with the long method
+an empirical examination of the relationship between code smells and merge conflicts
+what if i had no smells?
+sniffing android code smells: an association rules mining-based approach
+search-based web service antipatterns detection
+code smells in spreadsheet formulas revisited on an industrial dataset
+a metric-based heuristic framework to detect object-oriented design flaws
+evaluating domain-specific metric thresholds: an empirical study
+design flaws prediction for impact on software maintainability using extreme learning machine
+an adaptive approach for automatic design defects detection in object-oriented systems
+a method to derive metric thresholds for software product lines
+a deep learning based approach to detect code clones
+bellwethers: a baseline method for transfer learning
+feature envy detection based on bi-lstm with self-attention mechanism
+toward proactive refactoring: an exploratory study on decaying modules
+software design patterns recommendation : a systematic literature review
+size and frequency of class change from a refactoring perspective
+[front cover]

@@ -1,0 +1,147 @@
+Title
+support vector machines for anti-pattern detection
+"automatically detecting ""excessive dynamic memory allocations"" software performance anti-pattern"
+comparing heuristic and machine learning approaches for metric-based code smell detection
+on the role of data balancing for machine learning-based code smell detection
+deepiac: deep learning-based linguistic anti-pattern detection in iac
+software process anti-pattern detection in project data
+machine learning based code smell detection through wekanose
+mlcq: industry-relevant code smell data set
+automatic identification of code smell discussions on stack overflow: a preliminary investigation
+developer-driven code smell prioritization
+a review-based comparative study of bad smell detection tools
+size and cohesion metrics as indicators of the long method bad smell: an empirical study
+functionality based code smell detection and severity classification
+"causes, impacts, and detection approaches of code smell: a survey"
+using developers' feedback to improve code smell detection
+building empirical support for automated code smell detection
+code-smell detection as a bilevel problem
+a preliminary study on the adequacy of static analysis warnings with respect to code smell prediction
+does your configuration code smell?
+automatic metric thresholds derivation for code smell detection
+detecting bad smells with machine learning algorithms: an empirical study
+identifying method friendships to remove the feature envy bad smell (nier track)
+assessing code smell interest probability: a case study
+tracked changes: navigating the document-format anti-pattern
+are code smell co-occurrences harmful to internal quality attributes? a mixed-method study
+investigating the social representations of code smell identification: a preliminary study
+"investigating the relationship between code smell agglomerations and architectural concerns: similarities and dissimilarities from distributed, service-oriented, and mobile systems"
+towards assessing software architecture quality by exploiting code smell relations
+a catalogue of lightweight visualizations to support code smell inspection
+prediction of web service anti-patterns using aggregate software metrics and machine learning techniques
+applying machine learning to customized smell detection: a multi-project study
+empirical study on code smells in ios applications
+findsmells: flexible composition of bad smell detection strategies
+prevalence of bad smells in pl/sql projects
+unencapsulated collection: a teachable design smell
+oracles of bad smells: a systematic literature review
+exploring the impact of inter-smell relations on software maintainability: an empirical study
+an empirical study of the performance impacts of android code smells
+domain-specific tailoring of code smells: an empirical study
+are existing code smells relevant in web games? an empirical study
+towards detecting software performance anti-patterns using classification techniques
+machine learning techniques for code smells detection: an empirical experiment on a highly imbalanced setup
+casper: a plug-in for automated code smell detection and refactoring
+on the influence of human factors for identifying code smells: a multi-trial empirical study
+are you still smelling it? a comparative study between java and kotlin language
+optimized unit testing for antipattern detection
+vulnerability anti-patterns: a timeless way to capture poor software practices (vulnerabilities)
+dlfinder: characterizing and detecting duplicate logging code smells
+software process anti-patterns catalogue
+can you tell me if it smells? a study on how developers discuss code smells and anti-patterns in stack overflow
+automated reporting of anti-patterns and decay in continuous integration
+automatic detection of gui design smells: the case of blob listener
+a systematic literature mapping on the relationship between design patterns and bad smells
+revisiting context-based code smells prioritization: on supporting referred context
+effectiveness of encapsulation and object-oriented metrics to refactor code and identify error prone classes using bad smells
+cleangame: gamifying the identification of code smells
+an empirical examination of the relationship between code smells and merge conflicts
+a preliminary study on using code smells to improve bug localization
+towards a catalog of java dependency injection anti-patterns
+what if i had no smells?
+effectiveness of refactoring metrics model to identify smelly and error prone classes in open source software
+detecting performance anti-patterns for applications developed using object-relational mapping
+configuration smells in continuous delivery pipelines: a linter and a six-month study on gitlab
+detecting and visualizing inter-worksheet smells in spreadsheets
+introducing software performance antipatterns in cloud computing environments: does it help or hurt?
+are code smells the root cause of faults? a continuous experimentation approach
+digging into uml models to remove performance antipatterns
+rapid requirements checks with requirements smells: two case studies
+smell-o-message: integration of olfactory notifications into a messaging application to improve users' performance
+detecting video game-specific bad smells in unity projects
+p-lint: a permission smell detector for android applications
+integration of smells and refactorings within the eclipse modeling framework
+performance anti-patterns: want your apps to run faster? here’s what not to do
+olfoto: designing a smell-based interaction
+antipatterns regarding the application of cryptographic primitives by the example of ransomware
+including structural factors into the metrics-based code smells detection
+investigating the impact of code smells debt on quality code evaluation
+empirical evaluation of code smells in open source projects: preliminary results
+fork/join parallelism in the wild: documenting patterns and anti-patterns in java programs using the fork/join framework
+landfill: an open dataset of code smells with public evaluation
+applying software metric thresholds for detection of bad smells
+handling uncertainty in code smells detection using a possibilistic sbse approach
+the seven sins: security smells in infrastructure as code scripts
+investigating variability-aware smells in spls: an exploratory study
+sniffing android code smells: an association rules mining-based approach
+co-occurrence of design patterns and bad smells in software systems: an exploratory study
+understanding code smells in android applications
+sqlcheck: automated detection and diagnosis of sql anti-patterns
+filtering code smells detection results
+smells are sensitive to developers! on the efficiency of (un)guided customized detection
+antipattern-based model refactoring for software performance improvement
+the sisyphus database retrieval software performance antipattern
+on the survival of android code smells in the wild
+the rise of android code smells: who is to blame?
+anti-patterns in search-based program repair
+performance antipattern detection through fuml model library
+"on the prevalence, impact, and evolution of sql code smells in data-intensive systems"
+investigating the social representations of the identification of code smells by practitioners and students from brazil
+architectural smells detected by tools: a catalogue proposal
+from a domain analysis to the specification and detection of code and design smells
+software analytics in practice: a defect prediction model using code smells
+how do community smells influence code smells?
+recommending composite refactorings for smell removal: heuristics and evaluation
+towards a catalogue of java exception handling bad smells and refactorings
+understanding the impact of refactoring on smells: a longitudinal study of 23 software projects
+detecting android smells using multi-objective genetic programming
+automatic detection of performance anti-patterns in inter-component communications
+when and why your code starts to smell bad
+some code smells have a significant but small effect on faults
+"domain matters: bringing further evidence of the relationships among anti-patterns, application domains, and quality-related metrics in java mobile apps"
+perspectives on automated correction of bad smells
+characterizing and detecting anti-patterns in the logging code
+"on the prioritization of design-relevant smelly elements: a mixed-method, multi-project study"
+software reuse antipatterns
+tsdetect: an open source test smells detection tool
+code smells in ios apps: how do they compare to android?
+towards a catalog of usability smells
+anti-patterns for multi-language systems
+analysing the evolution of exception handling anti-patterns in large-scale projects: a case study
+studying the prevalence of exception handling anti-patterns
+an empirical investigation into the nature of test smells
+comparative study for detecting mobile application's anti-patterns
+customizable automatic detection of bad usability smells in mobile accessed web applications
+detection and solution of software performance antipatterns in palladio architectural models
+detecting bad smells in source code using change history information
+semantic-based architecture smell analysis
+incidence of code smells in the application of design patterns: a method-level analysis
+runtime detection of business process compliance violations: an approach based on anti patterns
+custodes: automatic spreadsheet cell clustering and smell detection using strong and weak features
+web service antipatterns detection using genetic programming
+when are smells indicators of architectural refactoring opportunities: a study of 50 software projects
+refactoring test smells: a perspective from open-source developers
+and the tool created a gui that was impure and without form: anti-patterns in automatically generated guis
+"towards the identification of ""guilty"" performance antipatterns"
+smelly relations: measuring and understanding database schema quality
+an interactive ambient visualization for code smells
+socrates: scala radar for test smells
+towards a taxonomy of grammar smells
+software performance antipatterns
+on experimenting refactoring tools to remove code smells
+software performance antipatterns in cyber-physical systems
+investigating severity thresholds for test smells
+on the influence of test smells on test coverage
+exploring synergies between bottleneck analysis and performance antipatterns
+sniffing through millions of blocks for bad smells
+assessing diffusion and perception of test smells in scala projects

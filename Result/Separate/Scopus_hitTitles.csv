@@ -1,0 +1,139 @@
+Title
+an empirical analysis on the role of wsdl metrics in web service anti-pattern prediction
+improving machine learning-based code smell detection via hyper-parameter optimization
+a preliminary study on the adequacy of static analysis warnings with respect to code smell prediction
+deepiac: deep learning-based linguistic anti-pattern detection in iac
+adaboost-based refused bequest code smell detection with synthetic instances
+predicting code smells and analysis of predictions: using machine learning techniques and software metrics
+a large empirical assessment of the role of data balancing in machine-learning-based code smell detection
+oracles of bad smells: a systematic literature review
+applying machine learning to customized smell detection: a multi-project study
+recommending composite refactorings for smell removal: heuristics and evaluation
+automatic identification of code smell discussions on stack overflow: a preliminary investigation
+"early prediction of quality of service using interface-level metrics, code-level metrics, and antipatterns"
+code smell detection using multi-label classification approach
+deep hybrid features for code smells detection
+bibsqlqc: brown infomax boosted sql query clustering algorithm to detect anti-patterns in the query log
+developer-driven code smell prioritization
+detecting bad smells with machine learning algorithms: an empirical study
+detect and diagnose code smell types by using the backpropagation neural network based on user feedback
+bad smell detection using machine learning techniques: a systematic literature review
+a machine-learning based ensemble method for anti-patterns detection
+prediction ofweb service anti-patterns using aggregate software metrics and machine learning techniques
+functionality based code smell detection and severity classification
+did jhotdraw respect the law of good style? a deep dive into the nature of false positives of bad code smells
+detection of web service anti-patterns using machine learning framework
+detection of web service anti-patterns using neural networks with multiple layers
+web service api anti-patterns detection as a multi-label learning problem
+empirical study about class change proneness prediction using software metrics and code smells
+classification and analysis of static metric based antipattern detection in service computing
+android smells detection using ml algorithms with static code metrics
+software defect prediction using bad code smells: a systematic literature review
+code smell prediction employing machine learning meets emerging java language constructs
+software smell detection based on machine learning and its empirical study
+an effective web service anti-pattern prediction model using smote
+design and analysis of improvised genetic algorithm with particle swarm optimization for code smell detection
+the smell of fear: on the relation between test smells and flaky tests
+comparison of multi-label classification algorithms for code smell detection
+detecting code smells using deep learning
+methodology for the quantification of the effect of patterns and anti-patterns association on the software quality
+"on the prioritization of design-relevant smelly elements: a mixed-method, multi-project study"
+deep learning anti-patterns from code metrics history
+software design smell detection: a systematic mapping study
+on the role of data balancing for machine learning-based code smell detection
+deep representation learning for code smells detection using variational auto-encoder
+identification of code smell using machine learning
+sniffing android code smells: an association rules mining-based approach
+comparing heuristic and machine learning approaches for metric-based code smell detection
+an empirical framework for code smell prediction using extreme learning machine∗
+an empirical framework for web service anti-pattern prediction using machine learning techniques
+bug prediction model using code smells
+bad smells in scratch projects: a preliminary analysis
+a rating tool for the automated selection of software refactorings that remove antipatterns to improve performance and stability
+an approach to suggest code smell order for refactoring
+assessment of code smell for predicting class change proneness using machine learning
+comparison of machine learning methods for code smell detection using reduced features
+a systematic literature review: refactoring for disclosing code smells in object oriented software
+detecting bad smells in software systems with linked multivariate visualizations
+structural quality metrics as indicators of the long method bad smell: an empirical study
+improving design smell detection for adoption in industry
+exploring the impact of code smells on fine-grained structural change-proneness
+a systematic review on the code smell effect
+code smells and their collocations: a large-scale experiment on open-source systems
+detection strategies of bad smells in highly configurable software
+are smell-based metrics actually useful in effort-aware structural change-proneness prediction? an empirical study
+using code evolution information to improve the quality of labels in code smell datasets
+an empirical analysis on web service anti-pattern detection using a machine learning framework
+combining spreadsheet smells for improved fault prediction
+detecting and managing code smells: research and practice
+poster: machine learning based code smell detection through wekanose
+"software code smell prediction model using shannon, rényi and tsallis entropies"
+keep it simple: is deep learning good for linguistic smell detection?
+a survey on software smells
+smells in software test code: a survey of knowledge in industry and academia
+a support vector machine based approach for code smell detection
+understanding metric-based detectable smells in python software: a comparative study
+design of testing framework for code smell detection (oops) using bfo algorithm
+investigating the role of code smells in preventive maintenance
+eclipse plugin for automatic detection of code smells in source codes [kaynak kodlardaki kötü kokuların otomatik tespiti için eclipse eklenti önerisi]
+a hybrid approach to detect code smells using deep learning
+are you smelling it? investigating how similar developers detect code smells
+an empirical examination of the relationship between code smells and merge conflicts
+what if i had no smells?
+finding bad code smells with neural network models
+evaluation of sampling techniques in software fault prediction using metrics and code smells
+when and why your code starts to smell bad (and whether the smells go away)
+code smell severity classification using machine learning techniques
+search-based web service antipatterns detection
+smells are sensitive to developers! on the efficiency of (un)guided customized detection
+more: a multi-objective refactoring recommendation approach to introducing design patterns and fixing code smells
+investigating code smell co-occurrences using association rule learning: a replicated study
+influence of programming style in transformation bad smells: mining of etl repositories
+the connection between antipatterns and maintainability in firefox
+evaluating the accuracy of machine learning algorithms on detecting code smells for different developers
+evaluation of machine learning approaches for change-proneness prediction using code smells
+antipattern-based problem injection for assessing performance and reliability evaluation techniques
+predicting maintainability of open source software using gene expression programming and bad smells
+do we have a chance to fix bugs when refactoring code smells?
+predicting software change-proneness with code smells and class imbalance learning
+comparing and experimenting machine learning techniques for code smell detection
+do code smells impact the effort of different maintenance programming activities?
+anti-pattern and code smell false positives: preliminary conceptualisation and classification
+when more heads are better than one?: understanding and improving collaborative identification of code smells
+experience report: evaluating the effectiveness of decision trees for detecting code smells
+code smells in spreadsheet formulas revisited on an industrial dataset
+code bad smell detection through evolutionary data mining
+automatic metric thresholds derivation for code smell detection
+web service antipatterns detection using genetic programming
+towards a framework for automatic correction of anti-patterns
+uncovering javascript performance code smells relevant to type mutations
+code smells detection and visualization of software systems
+some code smells have a significant but small effect on faults
+a cooperative parallel search-based software engineering approach for code-smells detection
+investigating the evolution of code smells in object-oriented systems
+detection of rest patterns and antipatterns: a heuristics-based approach
+recognizing antipatterns and analyzing their effects on software maintainability
+automatic detection of performance anti-patterns in inter-component communications
+assessing the capability of code smells to explain maintenance problems: an empirical study combining quantitative and qualitative data
+code smell detection: towards a machine learning-based approach
+competitive coevolutionary code-smells detection
+towards a principle-based classification of structural design smells
+an approach for web service discoverability anti-pattern detection for journal of web engineering
+quantifying the effect of code smells on maintenance effort
+automatic forecasting of design anti-patterns in software source code
+an empirical analysis of the distribution of unit test smells and their impact on software maintenance
+smurf: a svm-based incremental anti-pattern detection approach
+support vector machines for anti-pattern detection
+an automatic approach for detecting early indicators of design anti-patterns
+bad-smell prediction from software design model using machine learning techniques
+bdtex: a gqm-based bayesian approach for the detection of antipatterns
+empirical software evolvability - code smells and human evaluations
+reducing subjectivity in code smells detection: experimenting with the long method
+investigating the evolution of bad smells in object-oriented code
+an interactive ambient visualization for code smells
+building empirical support for automated code smell detection
+domain-specific tailoring of code smells: an empirical study
+an ontological identification of relationships between anti-patterns and code smells
+a bayesian approach for the detection of code and design smells
+"antipatterns: identification, refactoring, and management"
+"object oriented design expertise reuse: an approach based on heuristics, design patterns and anti-patterns"
